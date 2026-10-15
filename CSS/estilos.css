@@ -1,16 +1,16 @@
 body {font-family: cursive;
     background-color: #FCFC9F ;
     color: #2f2f2f;
-    font-size: 1.75em;}
+    font-size: 1.10em;}
 h1 {background-color:#9E2A2B;
     background-size: cover;
     color: white;
-    font-size: 2.25em;
+    font-size: 1.25em;
     text-decoration: underline;}
 h2 {color: #9E2A2B;
     text-align: center;
     text-decoration: underline;
-    font-size: 1.9em;}
+    font-size: 1.15em;}
 img {align-content: center;}
 h3 {color: #546A2F;
    text-decoration: underline; }
@@ -32,3 +32,6 @@ a {color: #546A2F;}
 .tips {background-color:#FFFFCF }
 .otras {text-decoration: underline;
         background-color: #FFE1B5}
+.ñoqui {width: 400px;
+        height: auto;
+        border-radius: 8px;}
